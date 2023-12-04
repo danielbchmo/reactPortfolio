@@ -6,3 +6,6 @@ I'm Oscar Bachomo. I'm learning about React and how improve my web developer ski
 
 ### Inside
 Inside of this project, we'll see my first project with React. There're a .md file with instructions about it.
+
+### Main Author information
+[FreeCodeCamp](https://www.youtube.com/watch?v=6Jfk8ic3KVk)
